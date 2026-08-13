@@ -31,6 +31,13 @@ Sections:
 | Emoji rankings | top emoji overall and per person |
 | Most used words | with stopwords, links and names filtered out |
 
+Light Mode
+![Screenshot](screenshots/LightMode.png)
+
+Dark Mode
+![Screenshot](screenshots/DarkMode.png)
+
+
 ## Privacy
 
 You asked for this, and it is enforced in code rather than by convention:
