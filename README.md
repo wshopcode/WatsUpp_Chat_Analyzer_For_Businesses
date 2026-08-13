@@ -32,10 +32,10 @@ Sections:
 | Most used words | with stopwords, links and names filtered out |
 
 Light Mode
-![Screenshot](screenshots/LightMode.png)
+<img src="screenshots/LightMode.png" alt="Screenshot" width="300" height="200">
 
 Dark Mode
-![Screenshot](screenshots/DarkMode.png)
+<img src="screenshots/DarkMode.png" alt="Screenshot" width="300" height="200">
 
 
 ## Privacy
