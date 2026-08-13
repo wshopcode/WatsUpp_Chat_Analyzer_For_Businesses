@@ -31,11 +31,9 @@ Sections:
 | Emoji rankings | top emoji overall and per person |
 | Most used words | with stopwords, links and names filtered out |
 
-Light Mode
-<img src="screenshots/LightMode.png" alt="Screenshot" width="300" height="200">
+<img src="screenshots/LightMode.png" alt="Screenshot" width="400" height="500">
 
-Dark Mode
-<img src="screenshots/DarkMode.png" alt="Screenshot" width="300" height="200">
+<img src="screenshots/DarkMode.png" alt="Screenshot" width="400" height="500">
 
 
 ## Privacy
